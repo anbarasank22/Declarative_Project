@@ -1,9 +1,9 @@
 pipeline
 {
 agent any
-stages
+   stages
 {
- stage('Commit')
+ stage('Git Commit')
  {
   steps
   {
